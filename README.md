@@ -1,3 +1,6 @@
+Scritto con GitBook
+https://www.gitbook.com/@itts/spaces
+
 # Appunti di C\#
 
 ## Argomento: Lettura di file XML
