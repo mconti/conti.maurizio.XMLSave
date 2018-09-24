@@ -1,8 +1,9 @@
----
-description: 'Appunti e materiali per studiare C#'
----
 
 # Appunti di C\#
+
+---
+Argomento: 'Lettyra di file XML'
+---
 
 Import necessari
 
