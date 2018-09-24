@@ -1,9 +1,14 @@
-Scritto con GitBook
-https://www.gitbook.com/@itts/spaces
-
 # Appunti di C\#
 
-## Argomento: Lettura di file XML
+Scritto con GitBook   
+[https://www.gitbook.com/@itts/spaces](https://www.gitbook.com/@itts/spaces)  
+  
+Questa pagine la trovi qui  
+[https://itts.gitbook.io/5i/](https://itts.gitbook.io/5i/)
+
+## Appunti di C\
+
+### Argomento: Lettura di file XML
 
 Using C\# necessari
 
