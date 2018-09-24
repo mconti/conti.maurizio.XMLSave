@@ -21,7 +21,7 @@ using System.Threading.Tasks;
 using System.Xml.Linq;
 ```
 
-Sorgenti qui:  
+Sorgenti completi del progetto qui:  
 [https://github.com/mconti/conti.maurizio.XMLSave.git](https://github.com/mconti/conti.maurizio.XMLSave.git)
 
 Classe Meteo
