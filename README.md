@@ -1,6 +1,6 @@
 # Appunti di C\#
 
-## Argomento: 'Lettura di file XML'
+## Argomento: Lettura di file XML
 
 Using C\# necessari
 
