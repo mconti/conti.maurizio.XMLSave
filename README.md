@@ -1,11 +1,8 @@
-
 # Appunti di C\#
 
----
-Argomento: 'Lettyra di file XML'
----
+## Argomento: 'Lettura di file XML'
 
-Import necessari
+Using C\# necessari
 
 ```csharp
 using System;
