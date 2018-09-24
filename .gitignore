@@ -47,4 +47,5 @@ Temporary Items
 .apdisk
 
 # bin debug
-/obj
+obj
+bin

@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 
-
 namespace conti.maurizio._5i.WPFXmlSave
 {
     public class Meteo
