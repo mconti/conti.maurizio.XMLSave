@@ -1,11 +1,9 @@
 C:\Users\posta\Desktop\conti.maurizio.XMLSave\conti.maurizio.5i.WPFXmlSave\conti.maurizio.5i.WPFXmlSave\bin\Debug\conti.maurizio.5i.WPFXmlSave.exe.config
 C:\Users\posta\Desktop\conti.maurizio.XMLSave\conti.maurizio.5i.WPFXmlSave\conti.maurizio.5i.WPFXmlSave\obj\Debug\conti.maurizio.5i.WPFXmlSave.csprojResolveAssemblyReference.cache
 C:\Users\posta\Desktop\conti.maurizio.XMLSave\conti.maurizio.5i.WPFXmlSave\conti.maurizio.5i.WPFXmlSave\obj\Debug\App.g.cs
-C:\Users\posta\Desktop\conti.maurizio.XMLSave\conti.maurizio.5i.WPFXmlSave\conti.maurizio.5i.WPFXmlSave\obj\Debug\conti.maurizio.5i.WPFXmlSave_Content.g.cs
 C:\Users\posta\Desktop\conti.maurizio.XMLSave\conti.maurizio.5i.WPFXmlSave\conti.maurizio.5i.WPFXmlSave\obj\Debug\conti.maurizio.5i.WPFXmlSave_MarkupCompile.cache
 C:\Users\posta\Desktop\conti.maurizio.XMLSave\conti.maurizio.5i.WPFXmlSave\conti.maurizio.5i.WPFXmlSave\obj\Debug\MainWindow.g.cs
 C:\Users\posta\Desktop\conti.maurizio.XMLSave\conti.maurizio.5i.WPFXmlSave\conti.maurizio.5i.WPFXmlSave\obj\Debug\conti.maurizio.5i.WPFXmlSave_MarkupCompile.lref
-C:\Users\posta\Desktop\conti.maurizio.XMLSave\conti.maurizio.5i.WPFXmlSave\conti.maurizio.5i.WPFXmlSave\bin\Debug\Dati\TextFile1.txt
 C:\Users\posta\Desktop\conti.maurizio.XMLSave\conti.maurizio.5i.WPFXmlSave\conti.maurizio.5i.WPFXmlSave\bin\Debug\conti.maurizio.5i.WPFXmlSave.exe
 C:\Users\posta\Desktop\conti.maurizio.XMLSave\conti.maurizio.5i.WPFXmlSave\conti.maurizio.5i.WPFXmlSave\bin\Debug\conti.maurizio.5i.WPFXmlSave.pdb
 C:\Users\posta\Desktop\conti.maurizio.XMLSave\conti.maurizio.5i.WPFXmlSave\conti.maurizio.5i.WPFXmlSave\obj\Debug\MainWindow.baml
