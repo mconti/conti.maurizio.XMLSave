@@ -6,6 +6,10 @@ Scritto con GitBook
 Questa pagina la trovi qui  
 [https://itts.gitbook.io/5i/](https://itts.gitbook.io/5i/)
 
+## Appunti di C\#
+
+### Argomento: Lettura di file XML
+
 Esempio di utilizzo
 
 ```csharp
@@ -15,10 +19,6 @@ private void Button_Click(object sender, RoutedEventArgs e)
     dgDati.ItemsSource = m;
 }
 ```
-
-## Appunti di C\#
-
-### Argomento: Lettura di file XML
 
 Using C\# necessari
 
