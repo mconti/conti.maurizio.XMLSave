@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <Button Click="Button_Click"></Button>
+        <Button Click="Button_Click" Margin="0,0,0,258">GO!</Button>
+        <DataGrid x:Name="dgDati" Margin="0,66,0,0"/>
     </Grid>
 </Window>

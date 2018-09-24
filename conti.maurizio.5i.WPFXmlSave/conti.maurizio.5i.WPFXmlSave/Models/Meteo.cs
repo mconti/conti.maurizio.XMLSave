@@ -46,7 +46,7 @@ namespace conti.maurizio._5i.WPFXmlSave
             );
 
             // Costruzione statica..
-            //XElement e = new XElement("previsioni",
+            //XElement e1 = new XElement("previsioni",
             //    new XElement("Metei",
             //        new XAttribute("Data", "21/27/2017"),
             //        new XElement("Meteo",

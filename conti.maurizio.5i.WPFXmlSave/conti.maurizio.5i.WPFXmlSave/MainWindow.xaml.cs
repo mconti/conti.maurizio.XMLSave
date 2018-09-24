@@ -28,7 +28,7 @@ namespace conti.maurizio._5i.WPFXmlSave
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             Metei m = new Metei("Dati/dati.xml");
-
+            dgDati.ItemsSource = m;
         }
 
 
