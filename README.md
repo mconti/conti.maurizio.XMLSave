@@ -6,7 +6,7 @@ Scritto con GitBook
 Questa pagina la trovi qui  
 [https://itts.gitbook.io/5i/](https://itts.gitbook.io/5i/)
 
-## Appunti di C\
+## Appunti di C\#
 
 ### Argomento: Lettura di file XML
 
