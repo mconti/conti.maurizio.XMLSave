@@ -10,6 +10,16 @@ Questa pagina la trovi qui
 
 ### Argomento: Lettura di file XML
 
+Esempio di utilizzo
+
+```csharp
+private void Button_Click(object sender, RoutedEventArgs e)
+{
+    Metei m = new Metei("Dati/dati.xml");
+    dgDati.ItemsSource = m;
+}
+```
+
 Using C\# necessari
 
 ```csharp
