@@ -3,7 +3,7 @@
 Scritto con GitBook   
 [https://www.gitbook.com/@itts/spaces](https://www.gitbook.com/@itts/spaces)  
   
-Questa pagine la trovi qui  
+Questa pagina la trovi qui  
 [https://itts.gitbook.io/5i/](https://itts.gitbook.io/5i/)
 
 ## Appunti di C\
