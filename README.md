@@ -4,8 +4,21 @@ description: 'Appunti e materiali per studiare C#'
 
 # Appunti di C\#
 
-Gestire file XML  
+Import necessari
+
+```csharp
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Xml.Linq;
+```
+
+Sorgenti qui:  
 [https://github.com/mconti/conti.maurizio.XMLSave.git](https://github.com/mconti/conti.maurizio.XMLSave.git)
+
+Classe Meteo
 
 ```csharp
 public class Meteo
@@ -26,6 +39,32 @@ public class Meteo
             out temp
         );
         Temperatura = temp;
+    }
+}
+```
+
+Classe Metei \(contenitore di oggetti Meteo\)
+
+```csharp
+public class Metei : List<Meteo>
+{
+    public string FileName { get; }
+    public Metei (string fileName)
+    {
+        Add(new Meteo { Citta="Riccione", Temperatura=20.3 });
+
+        XElement e = new XElement("previsioni",
+            new XElement("Metei",
+                new XAttribute("Data", "21/2/2017"),
+                    from m in this
+                    select new XElement( "Meteo", 
+                        new XAttribute("Citta", m.Citta),
+                        new XAttribute( "Temperatura", m.Temperatura )
+                )
+            )
+        );
+
+        e.Save(fileName);
     }
 }
 ```
