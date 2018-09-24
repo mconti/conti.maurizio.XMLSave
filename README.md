@@ -6,6 +6,16 @@ Scritto con GitBook
 Questa pagina la trovi qui  
 [https://itts.gitbook.io/5i/](https://itts.gitbook.io/5i/)
 
+Esempio di utilizzo
+
+```csharp
+private void Button_Click(object sender, RoutedEventArgs e)
+{
+    Metei m = new Metei("Dati/dati.xml");
+    dgDati.ItemsSource = m;
+}
+```
+
 ## Appunti di C\#
 
 ### Argomento: Lettura di file XML
